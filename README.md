@@ -1,7 +1,7 @@
 # Dart Challenge
 
 ## Jawaban
-No 2. Kompleksitas waktu O(n). Komplesitas yang dilakukan adalah dengan melakukan recursive didalam String dengan sejumlah input String.
+No 2. Kompleksitas waktu O(n). Komplesitas yang dilakukan adalah dengan melakukan recursive didalam String dengan sejumlah panjang String.
 
 
 ## Cara untuk menjalankan
